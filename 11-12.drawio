@@ -365,7 +365,28 @@
           <mxGeometry x="944.34" y="1840" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IXMa3B9ugrM5NLWrx69M-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_double;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="311.35" y="2008" width="153.32" height="163.01" as="geometry" />
+          <mxGeometry x="316.35" y="2056" width="153.32" height="163.01" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.plant;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1970" width="77" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.plant;" vertex="1" parent="1">
+          <mxGeometry x="867.34" y="2300" width="77" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.piano;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="2265" width="135" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-32" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="1980" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;rotation=-90;" vertex="1" parent="IXMa3B9ugrM5NLWrx69M-32">
+          <mxGeometry x="7" y="14" width="40" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-30" value="" style="shape=rect;shadow=0;html=1;rotation=-90;" vertex="1" parent="IXMa3B9ugrM5NLWrx69M-32">
+          <mxGeometry x="10" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.workstation;shadow=0;flipV=1;rotation=-90;" vertex="1" parent="IXMa3B9ugrM5NLWrx69M-32">
+          <mxGeometry x="30" y="15" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
