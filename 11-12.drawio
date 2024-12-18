@@ -193,7 +193,7 @@
         <mxCell id="liXmxX_6arM2h5B0cPEr-57" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Balcony 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="537.6100603143234" y="1851.6172506738544" width="340" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="liXmxX_6arM2h5B0cPEr-58" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Balcony 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+        <mxCell id="liXmxX_6arM2h5B0cPEr-58" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Balcony 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
           <mxGeometry x="1120.7192783192354" y="1529.9972506738545" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="liXmxX_6arM2h5B0cPEr-59" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Master Bedroom&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
@@ -387,6 +387,12 @@
         </mxCell>
         <mxCell id="IXMa3B9ugrM5NLWrx69M-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.workstation;shadow=0;flipV=1;rotation=-90;" vertex="1" parent="IXMa3B9ugrM5NLWrx69M-32">
           <mxGeometry x="30" y="15" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.refrigerator;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="2177.52" width="240" height="192.48" as="geometry" />
+        </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.printer;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1960" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
