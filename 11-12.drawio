@@ -394,6 +394,9 @@
         <mxCell id="IXMa3B9ugrM5NLWrx69M-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.printer;" vertex="1" parent="1">
           <mxGeometry x="370" y="1960" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IXMa3B9ugrM5NLWrx69M-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bookcase;" vertex="1" parent="1">
+          <mxGeometry x="333" y="2957" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
